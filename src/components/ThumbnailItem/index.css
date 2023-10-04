@@ -1,0 +1,16 @@
+/* Write your code here. */
+.image-size {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: black;
+  opacity: 0.5;
+}
+.img-btn {
+  background-color: transparent;
+  border-width: 0px;
+  border-radius: 10px;
+}
+.btnstyle {
+  background-color: none !important;
+}
